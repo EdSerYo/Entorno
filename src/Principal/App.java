@@ -10,6 +10,9 @@ public class App {
 		int a = 0;
 		
 		int b = 5;
+		
+		
+		System.out.println(a + b);
 	}
 
 }
