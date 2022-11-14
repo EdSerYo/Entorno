@@ -6,6 +6,10 @@ public class App {
 		// TODO Esbozo de método generado automáticamente
 		
 		System.out.println("Hola Mundo");
+		
+		int a = 0;
+		
+		int b = 5;
 	}
 
 }
